@@ -1,0 +1,6 @@
+Credentials cache: API:5FB8D4AA-7BC0-447E-A68E-2941DAC99B17
+        Principal: vlissoir@S19.BE
+
+  Issued                Expires               Principal
+Sep  7 16:20:47 2020  Sep  8 02:20:47 2020  krbtgt/S19.BE@S19.BE
+Sep  7 16:20:48 2020  Sep  8 02:20:47 2020  HTTP/san-ssd.s19.be@S19.BE
